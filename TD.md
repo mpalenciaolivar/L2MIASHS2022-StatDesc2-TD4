@@ -23,6 +23,8 @@ descriptive 2 dispensé en L2 MIASHS à l'Université Lumière Lyon 2 par [Stép
 
 - [KNN Algorithm in R](https://eshitanandy.medium.com/knn-algorithm-in-r-30dff0c8d094)
 
+- [9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
+
 # Exercices
 
 Pour un résumé des explications données en TD et un approfondissement du K-NN, on se réfèrera aux ressources internet ci-dessus. Elles sont en anglais, mais simples d'accès, et surtout, elles sont assez complètes et illustrées ! Cela vaut vraiment le coup d'y jeter un oeil. Le jeu de données pour la partie R est fourni dans le dossier `data`.
